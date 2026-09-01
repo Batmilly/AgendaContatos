@@ -1,0 +1,34 @@
+# Arquivos de compilação e metadados do Eclipse
+.metadata/
+bin/
+tmp/
+*.tmp
+*.bak
+*.dat
+*.classes
+*.class
+
+# Configurações do projeto no Eclipse
+# (Geralmente são ignoradas para evitar conflitos de caminhos entre desenvolvedores)
+.settings/
+.buildpath
+.project
+
+# Arquivos do sistema Windows 11
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehout.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
+*.lnk
+
+# VS Code (caso abra o projeto nele eventualmente)
+.vscode/
+
+# Logs do sistema e de execução
+*.log
